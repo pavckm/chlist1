@@ -31,13 +31,6 @@ https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Lokal",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Lokal",ANTV
